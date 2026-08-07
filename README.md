@@ -206,14 +206,8 @@ For AetherGrid Systems, the simulated recommendation is:
 
 **Relationship Management:** Schedule a strategic relationship review with the CFO / Treasurer centered on growth financing, liquidity architecture, international expansion, and operating efficiency.
 
-## How to Present This Project in an Interview
-
-Do not describe this as actual Bank of America work. Present it as:
-
-> “I built an independent commercial-banking simulation to practice the responsibilities of a technology coverage associate. I created a synthetic middle-market technology portfolio, prioritized client and prospect opportunities, built a detailed financial and credit model for a flagship SaaS client, tested debt-service capacity under downside scenarios, assessed treasury and FX needs, and translated the analysis into an executive relationship review.”
-
-See [`docs/interview_walkthrough.md`](docs/interview_walkthrough.md) for the full presentation script.
 
 ## Disclaimer
 
 All company names, financial statements, client activities, facility terms, risk scores, and relationship estimates in this repository are fictional and created solely for portfolio demonstration. Public market and banking sources are cited only to establish external context. This project does not reproduce Bank of America proprietary models, policies, risk-rating systems, pricing, or internal approval processes.
+Jalaan Fields
